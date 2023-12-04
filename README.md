@@ -43,3 +43,7 @@
 - `vendor/bin/phinx seed:run -s UserCompanySeeder`
 
 - `vendor/bin/phinx migrate -t 20211114083508` & `vendor/bin/phinx seed:run -s UserSeeder`
+
+## Database
+
+- https://dbdiagram.io/d/hfx-console-656c563456d8064ca0464705
